@@ -1,0 +1,125 @@
+{
+  "projectName": "beerus",
+  "projectOwner": "keep-starknet-strange",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "abdelhamidbakhta",
+      "name": "Abdel @ StarkWare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45264458?v=4",
+      "profile": "https://github.com/abdelhamidbakhta",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "LucasLvy",
+      "name": "Lucas @ StarkWare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70894690?v=4",
+      "profile": "https://github.com/LucasLvy",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "danilowhk",
+      "name": "danilowhk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12735159?v=4",
+      "profile": "https://github.com/danilowhk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ClementWalter",
+      "name": "Clément Walter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18620296?v=4",
+      "profile": "https://www.linkedin.com/in/clementwalter",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Eikix",
+      "name": "Elias Tazartes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66871571?v=4",
+      "profile": "https://github.com/Eikix",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "drspacemn",
+      "name": "drspacemn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16685321?v=4",
+      "profile": "https://github.com/drspacemn",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "msaug",
+      "name": "Mathieu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60658558?v=4",
+      "profile": "https://github.com/msaug",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hurrikaanig",
+      "name": "TurcFort07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37303126?v=4",
+      "profile": "https://github.com/hurrikaanig",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "florian-bellotti",
+      "name": "Florian Bellotti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7861901?v=4",
+      "profile": "https://github.com/florian-bellotti",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bbrandtom",
+      "name": "Tom Brand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45038918?v=4",
+      "profile": "https://github.com/bbrandtom",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ftupas",
+      "name": "ftupas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35031356?v=4",
+      "profile": "https://github.com/ftupas",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "pscott",
+      "name": "pscott",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30843220?v=4",
+      "profile": "https://github.com/pscott",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
