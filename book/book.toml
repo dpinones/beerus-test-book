@@ -3,7 +3,7 @@ authors = ["dpinones", "glihm"]
 language = "en"
 multilingual = false
 src = "src"
-title = "test mdbook"
+title = "Beerus Documentation"
 
 [rust]
 edition = "2021"
