@@ -320,7 +320,7 @@ _For more information and to report security issues, please refer to our
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dpinones"><img src="https://avatars.githubusercontent.com/u/30808181?v=4?s=100" width="100px;" alt="Damián Piñones"/><br /><sub><b>Damián Piñones</b></sub></a><br /><a href="https://github.com/dpinones/beerus-test-book/commits?author=dpinones" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dpinones"><img src="https://avatars.githubusercontent.com/u/30808181?v=4?s=100" width="100px;" alt="Damián Piñones"/><br /><sub><b>Damián Piñones</b></sub></a><br /><a href="https://github.com/dpinones/beerus-test-book/commits?author=dpinones" title="Code">💻</a> <a href="https://github.com/dpinones/beerus-test-book/commits?author=dpinones" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
