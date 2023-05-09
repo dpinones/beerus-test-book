@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <h1>Beerus</h1>
     <img src="docs/images/beerus.png" height="200">
@@ -321,6 +321,7 @@ _For more information and to report security issues, please refer to our
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dpinones"><img src="https://avatars.githubusercontent.com/u/30808181?v=4?s=100" width="100px;" alt="Damián Piñones"/><br /><sub><b>Damián Piñones</b></sub></a><br /><a href="https://github.com/dpinones/beerus-test-book/commits?author=dpinones" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/glihm"><img src="https://avatars.githubusercontent.com/u/7962849?v=4?s=100" width="100px;" alt="glihm"/><br /><sub><b>glihm</b></sub></a><br /><a href="#infra-glihm" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/dpinones/beerus-test-book/commits?author=glihm" title="Tests">⚠️</a> <a href="https://github.com/dpinones/beerus-test-book/commits?author=glihm" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
