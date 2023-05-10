@@ -47,3 +47,4 @@ To work with translations, those are the steps to update the translated content:
    The PR must stars with `i18n` to let the maintainers know that the PR is only changing translation.
 
 The translation work is inspired from [Comprehensive Rust repository](https://github.com/google/comprehensive-rust/blob/main/TRANSLATIONS.md).
+
