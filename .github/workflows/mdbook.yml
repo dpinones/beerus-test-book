@@ -33,6 +33,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Logging
+        run: |
+          echo "${{toJSON(github.event)}}"
+          
       - name: Setup Rust cache
         uses: ./.github/workflows/setup-rust-cache
 
